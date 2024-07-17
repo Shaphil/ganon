@@ -1,9 +1,11 @@
+
 <p align="center">
   <img alt="Logo" src="./logo/ganon_version_2.png" />
+
 </p>
 
 <p align="center">
-  Ganon is a functional javascript library designed and maintained by open source contributors.
+  Ganon is a javascript library designed and maintained by open source contributors.
   <br />
   <br />
   <a href="https://travis-ci.org/BlakeGuilloud/ganon">
@@ -29,6 +31,7 @@
 
 ### A HUGE THANKS!!
 A very special thanks to [@csleong98](https://github.com/csleong98) for designing our logo!
+
 
 Huge props to [@andreasgruenh](https://github.com/andreasgruenh) and [@ktilcu](https://github.com/ktilcu) for helping collaborate.
 
@@ -122,7 +125,7 @@ Run the test again:
 
 ```bash
 $ yarn test sum
-  
+
   PASS  problems/sum.test.js
     ✓ adds 1 + 2 to equal 3 (6ms)
     ✓ adds 3 + 4 to equal 7 (1ms)
